@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 
-const Button = styled.button`
+export const Button = styled.button`
   color: var(--white);
   border: 1px solid var(--white);
   box-sizing: border-box;
@@ -19,6 +19,24 @@ const Button = styled.button`
   &:hover,
   &:focus {
     opacity: .5;
-`;
+}
 
-export default Button;
+  @media(max-width: 800px) {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: var(--white);
+    background: var(--primary);
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+
+    &:hover,
+    &:focus {
+      opacity: 1;
+}
+  }
+
+
+`;
