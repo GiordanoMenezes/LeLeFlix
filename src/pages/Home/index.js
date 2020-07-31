@@ -11,9 +11,11 @@ import styled  from 'styled-components';
 const AppContainer = styled.div`
   background: var(--grayDark);
   padding-top:94px;
+  padding-bottom:90px;
 
   @media(max-width:800px) {
     padding-top:60px;
+    padding-bottom:130px;
   }
 `;
 

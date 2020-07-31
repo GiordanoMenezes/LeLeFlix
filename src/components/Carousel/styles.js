@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
-export const Title = styled.h3`
+export const Title = styled.h4`
   font-style: normal;
   font-weight: normal;
-  font-size: 35px;
+  font-size: 28px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;

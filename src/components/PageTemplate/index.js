@@ -6,6 +6,7 @@ import styled from 'styled-components';
 
 const Main = styled.div`
    padding-top:94px;
+   padding-bottom:90px;
    padding-left:5%;
    padding-right: 5%;
    background-color: var(--black);
