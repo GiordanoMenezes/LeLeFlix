@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front-End",
+      "descricao": "Vídeos bacanas sobre a tecnologia Front End",
+      "cor": "#6ba1df"
+    },
+    {
+      "id": 2,
+      "nome": "Back-End",
+      "descricao": "Vídeos sobre tecnologias Back End",
+      "cor": "#1B343A"
+    }
+  ]
+}
