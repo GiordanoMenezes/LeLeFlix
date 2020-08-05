@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import FormField from '../components/FormField';
 import { Button } from '../../../components/Button';
 
-const URL = "http://localhost:3300/categorias";
+const URL = "http://localhost:8080/categorias";
 
 const Badgecolor = styled.div`
    background-color: ${props => props.cor};

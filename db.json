@@ -11,6 +11,12 @@
       "nome": "Back-End",
       "descricao": "Vídeos sobre tecnologias Back End",
       "cor": "#1B343A"
+    },
+    {
+      "id": 3,
+      "nome": "Filmes",
+      "descricao": "Melhores Filmes selecionados no Youtube",
+      "cor": "#C4A593"
     }
   ]
 }
